@@ -9,7 +9,7 @@
     
 <title>Rajesh Kumar</title>
 </head>
-<body background="./bgnew.jpg" height="100%" weidth="100%"> 
+
 <nav class="navbar">
         <div class="navbar-container container">
             <input type="checkbox">
@@ -21,7 +21,7 @@
                
             </div>
             <ul class="menu-items">
-                <li><a><img src="./rajeshkr.jpg"alt="Rajesh Pic" Height="80" widhth="70" /><!-- Rajesh kumar--></a></li>
+
                 <li><a href="./rajesh.html" style="color:red"><b>HOME</b></a></li>
                 <li><a href="./about.html" style="color:red"><b>ABOUT</b></a></li>
                 <li><a href="./research.html" style="color:red"><b>RESEARCH</b></a></li>
@@ -69,7 +69,7 @@ $(document).ready(function(){
 <div id="marquee1" align="center">
 <marquee behavior="alternate" onmouseover="this.stop();" onmouseout="this.start();">
 <br /><br /><br /><br /><br /><br /><br />
-<a align="center" style="color:#FF0000;><i><b color="green"> <font face="Latin Modern Roman Slanted" size=3"><b style="color:#66FF00;">Hi it's me, Rajesh Kumar </b><br /><b style="color:#66FF00;">Currently Pursuing M.Tech From NIT Raipur</b></font></b></i></a>
+<a ><b style="color:#66FF00;">Hi it's me, Rajesh Kumar </b><br /><b style="color:#66FF00;">Currently Pursuing M.Tech From NIT Raipur</b></font></b></i></a>
 </marquee>
 </div>
 
