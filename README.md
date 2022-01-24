@@ -2,12 +2,11 @@
     
 <title>Rajesh Kumar</title>
 
-
-          <a href="./rajesh.html" style="color:red"><b>HOME</b></a>
-          <a href="./about.html" style="color:red"><b>ABOUT</b></a>
-          <a href="./research.html" style="color:red"><b>RESEARCH</b></a>
-          <a href="./achievements.html" style="color:red"><b>ACHIEVEMENTS</b></a>
-          <a href="./contact.html" style="color:red"><b>CONTACT</b></a>
+<a href="./rajesh.html" style="color:red"><b>HOME</b></a>
+<a href="./about.html" style="color:red"><b>ABOUT</b></a>
+<a href="./research.html" style="color:red"><b>RESEARCH</b></a>
+<a href="./achievements.html" style="color:red"><b>ACHIEVEMENTS</b></a>
+<a href="./contact.html" style="color:red"><b>CONTACT</b></a>
 
                 
     
