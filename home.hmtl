@@ -4,7 +4,7 @@
 </head>
 <body height="100%" weidth="100%">
 <div align>        
-<a><img src="./rajeshkr.jpg"alt="Rajesh Pic" Height="80" widhth="70" /><!-- Rajesh kumar--></a>
+<img src="./rajeshkr.jpg"alt="Rajesh Pic" Height="80" widhth="70" />
 <a href="./rajesh.html" style="color:red"><b>HOME</b></a>
 <a href="./about.html" style="color:red"><b>ABOUT</b></a>
 <a href="./research.html" style="color:red"><b>RESEARCH</b></a>
