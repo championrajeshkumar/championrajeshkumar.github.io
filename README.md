@@ -2,7 +2,7 @@
 <head>    
 <title> Rajesh Kumar </title>
 </head>
-<body background="./bgnew.jpg" height="100%" weidth="100%">
+<body height="100%" weidth="100%">
 <div align>        
 <a><img src="./rajeshkr.jpg"alt="Rajesh Pic" Height="80" widhth="70" /><!-- Rajesh kumar--></a>
 <a href="./rajesh.html" style="color:red"><b>HOME</b></a>
