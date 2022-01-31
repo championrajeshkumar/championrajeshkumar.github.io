@@ -3,32 +3,15 @@
 <head>    
 <title>Rajesh Kumar</title>
 </head>
-<body background="./bgnew.jpg" height="100%" weidth="100%"> 
-<nav class="navbar">
-        <div class="navbar-container container">
-            <input type="checkbox">
-            <div class="hamburger-lines">
-                <span class="line line1"></span>
-                <span class="line line2"></span>
-                <span class="line line3"></span>
-                
-               
-            </div>
-            <ul class="menu-items">
-                <li><a><img src="./rajeshkr.jpg"alt="Rajesh Pic" Height="80" widhth="70" /><!-- Rajesh kumar--></a></li>
-                <li><a href="./rajesh.html" style="color:red"><b>HOME</b></a></li>
-                <li><a href="./about.html" style="color:red"><b>ABOUT</b></a></li>
-                <li><a href="./research.html" style="color:red"><b>RESEARCH</b></a></li>
-                <li><a href="./achievements.html" style="color:red"><b>ACHIEVEMENTS</b></a></li>
-                <li><a href="./contact.html" style="color:red"><b>CONTACT</b></a></li>
-
-                
-            </ul>
-            
-           <!--<a style="color:red" align="left"> <h1 class="logo"> <img src="./rajeshkr.jpg"alt="Rajesh Pic" Height="150" widhth="140" /><!-- Rajesh kumar</h1></a>-->
-
-        </div>
- </nav>
+<body background="./bgnew.jpg" height="100%" weidth="100%">
+<div align>        
+<a><img src="./rajeshkr.jpg"alt="Rajesh Pic" Height="80" widhth="70" /><!-- Rajesh kumar--></a>
+<a href="./rajesh.html" style="color:red"><b>HOME</b></a>
+<a href="./about.html" style="color:red"><b>ABOUT</b></a>
+<a href="./research.html" style="color:red"><b>RESEARCH</b></a>
+<a href="./achievements.html" style="color:red"><b>ACHIEVEMENTS</b></a>
+<a href="./contact.html" style="color:red"><b>CONTACT</b></a>
+</div>
 
 <!-- ######################################################## -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
